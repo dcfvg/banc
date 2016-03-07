@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to banc!"
 date:   2016-03-07 16:11:25 +0100
 categories: jekyll update
 ---
