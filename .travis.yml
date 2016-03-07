@@ -1,0 +1,4 @@
+.travis.yml
+
+language: ruby
+script: "bundle exec jekyll build"
